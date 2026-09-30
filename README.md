@@ -1,6 +1,8 @@
 # My self hosted tools
-https://github.com/r12esh/location-tracker-with-ip
+IP location
+https://github.com/r12esh/location-tracker-with-ip \n
 https://track-location-with-ip.netlify.app/
 
-https://github.com/r12esh/chartdb-fork
+ChatDB Fork
+https://github.com/r12esh/chartdb-fork \n
 https://chartdb-fork.vercel.app/
